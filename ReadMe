@@ -1,1 +1,9 @@
-LLMs, prompts, chains, tools, embeddings, RAG, and AI applications
+Example 1 : DemoWithGPT Py.
+
+step : install packages :
+
+pip install python-dotenv
+pip install -U langchain langchain-openai
+
+
+pip install -U langchain-google-genai google-genai python-dotenv
